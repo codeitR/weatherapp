@@ -1,1 +1,1 @@
-# this is my fist weather-app
+weather app
